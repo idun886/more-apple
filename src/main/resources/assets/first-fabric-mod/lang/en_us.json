@@ -1,0 +1,6 @@
+{
+  "item.first-fabric-mod.fabric_item": "diamondapple",
+  "item.first-fabric-mod.pig_tool": "pigtool",
+  "itemGroup.first-fabric-mod.general": "grouptest",
+  "itemGroup.first-fabric-mod.generaltwo": "othergroup"
+}
